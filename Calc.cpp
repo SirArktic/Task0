@@ -38,6 +38,6 @@ int main()
 			cout <<"\nU did something wrong :с\nTry it again!\n\n";
             continue;
         }
-		printf("Ответ: %lf\n\n", c);
+		printf("Answer: %lf\n\n", c);
     }
 }
